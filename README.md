@@ -1,0 +1,1 @@
+added a lay out and used a java script code. made feature where a user can easily write a comment on how the website is or order online without comming to our store. Also the website indicates how many users we have so that the customers my see its functionality.
